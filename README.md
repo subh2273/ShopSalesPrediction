@@ -2,7 +2,7 @@
 
 Used different algorithims to fetch the maximum acuracy.
 
-#Algorithims Used:
+## Algorithms Used:
 
 Linear Regression
 Ridge
